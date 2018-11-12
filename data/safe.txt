@@ -1,0 +1,6 @@
+IntellJ
+idea64.exe
+16.7183333333333
+Firefox
+firefox.exe
+9.516666666666652
