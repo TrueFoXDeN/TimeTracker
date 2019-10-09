@@ -85,10 +85,10 @@ public class Gui {
         }
 
         lbl[0].setText("Name eingeben.");
-        lbl[1].setText("Name der EXE eingeben.");
+        lbl[1].setText("Name der EXE eingeben");
 
         lbl2[0].setText("Name eingeben.");
-        lbl2[1].setText("Name der EXE eingeben.");
+        lbl2[1].setText("Name der EXE eingeben");
         lbl2[2].setText("Stunden eingeben");
 
         hinzufügen = new JButton("Hinzufügen");
